@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "typeId": 1,
+            "name": "Bang 1",
+            "description": "Step 1"
+        }
+        {
+            "id": 2,
+            "typeId": 1,
+            "name": "Bang 2",
+            "description": "Step 2"
+        }
+        {
+            "id": 3,
+            "typeId": 1,
+            "name": "Bang 3",
+            "description": "Step 3"
+        }
+        {
+            "id": 4,
+            "typeId": 2,
+            "name": "Bang 4",
+            "description": "Step 4"
+        }
+        {
+            "id": 5,
+            "typeId": 2,
+            "name": "Bang 5",
+            "description": "Step 5"
+        }
+        {
+            "id": 6,
+            "typeId": 2,
+            "name": "Bang 6",
+            "description": "Step 6"
+        }
+        {
+            "id": 7,
+            "typeId": 3,
+            "name": "Bang 7",
+            "description": "Step 7"
+        }
+        {
+            "id": 8,
+            "typeId": 3,
+            "name": "Bang 8",
+            "description": "Step 8"
+        }
+        {
+            "id": 9,
+            "typeId": 3,
+            "name": "Bang 9",
+            "description": "Step 9"
+        }
+        {
+            "id": 10,
+            "typeId": 4,
+            "name": "Bang 10",
+            "description": "Step 10"
+        }
+        {
+            "id": 11,
+            "typeId": 4,
+            "name": "Bang 11",
+            "description": "Step 11"
+        }
+        {
+            "id": 12,
+            "typeId": 4,
+            "name": "Bang 12",
+            "description": "Step 12"
+        }
+        {
+            "id": 13,
+            "typeId": 5,
+            "name": "Bang 13",
+            "description": "Step 13"
+        }
+        {
+            "id": 14,
+            "typeId": 5,
+            "name": "Bang 14",
+            "description": "Step 14"
+        }
+        {
+            "id": 15,
+            "typeId": 5,
+            "name": "Bang 15",
+            "description": "Step 15"
+        }
+        {
+            "id": 16,
+            "typeId": 6,
+            "name": "Bang 16",
+            "description": "Step 16"
+        }
+        {
+            "id": 17,
+            "typeId": 6,
+            "name": "Bang 17",
+            "description": "Step 17"
+        }
+        {
+            "id": 18,
+            "typeId": 6,
+            "name": "Bang 18",
+            "description": "Step 18"
+        }
+    ]
+}

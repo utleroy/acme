@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 1,
+            "categoryId": 0,
+            "name": "xs",
+            "description": "Basic"
+        }
+        {
+            "id": 2,
+            "categoryId": 0,
+            "name": "sm",
+            "description": "Novice"
+        }
+        {
+            "id": 3,
+            "categoryId": 0,
+            "name": "med",
+            "description": "Intermediate"
+        }
+        {
+            "id": 4,
+            "categoryId": 1,
+            "name": "lrg",
+            "description": "Expert"
+        }
+        {
+            "id": 5,
+            "categoryId": 1,
+            "name": "xl",
+            "description": "Pro"
+        }
+        {
+            "id": 6,
+            "categoryId": 1,
+            "name": "xxl",
+            "description": "Vet Pro"
+        }
+    ]
+}
